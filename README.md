@@ -14,4 +14,4 @@ Setting up PHP & MySQL Development Environment
 Successfully created and ran a PHP file using localhost.
 
 ## 🔗 Author:
-Your Name
+Allacheruvu Venkata Swathi
